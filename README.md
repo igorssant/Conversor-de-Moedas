@@ -2,7 +2,9 @@
 
 ## Descrição
 Este é um programa implementado em Java que converte valores entre seis diferentes moedas.
+<br>
 Ele oferece uma interface (GUI) de menu para que o usuário consiga selecionar, de forma simples, a conversão desejada.
+<br>
 São solicitados do usuário os valores necessários para realizar a conversão.
 
 ## Funcionalidades
@@ -22,10 +24,12 @@ Ao iniciar, o programa irá apresentar ao usuário as opções
 - Converter de Real para outra moeda; e
 - Converter de outra moeda para Real.
 Se a primeira opção for selecionada, o programa irá apresentar um menu onde o usuário deverá entrar com o valor em reais (R$), onde a casa decimal deverá ser sinalizada por ponto ao invés de virgula. Por fim, será apresentado ao usuário seis opções de moeda, onde ele poderá selecionar uma para efetuar a conversão. Aṕos a seleção, o valor convertido será apresentado.
+<br>
 Se a segunda opção for selecionada, o programa irá apresentar um menu onde o usuário deverá selecionar uma dentre seis moedas suportadas. Após a seleção da moeda, será apresentada ao usuário um diálogo onde ele deverá entrar com a quantidade da moeda selecionada anteriormente. Ao final da operação, será apresentado ao usuário o valor em reais (R$), pós conversão.
 
 ## Requisitos
 Java Development Kit (JDK) instalado.
+<br>
 Versão 8 ou superior.
 
 ## Limitações
